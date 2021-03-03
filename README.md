@@ -1,7 +1,7 @@
 # guilded-rose-kata
 A refactoring kata written in java
 
-======================================
+
 Gilded Rose Requirements Specification
 ======================================
 
